@@ -1,8 +1,8 @@
-import HeroImg from "./HeroImg.png";
+import HeroImg from "./../assets/HeroImg.png"
 import { FaLinkedin } from "react-icons/fa";
 import { SiPeerlist } from "react-icons/si";
 import { FaInstagram } from "react-icons/fa";
-import {Link} from "react-router"
+import {Link} from "react-router";
 
 function Main() {
   return (
@@ -20,7 +20,7 @@ function Main() {
         </div>
         </div>
         <div className="flex justify-end pt-25 ml-30">
-            <img src={HeroImg} alt="" className="h-[500px] w-[500px]"/>
+            <img src={HeroImg} alt="HeroImg" className="h-[500px] w-[500px]"/>
         </div>
     </div>
     </div>

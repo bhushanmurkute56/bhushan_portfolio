@@ -1,13 +1,13 @@
-import htmlImg from "./html-5.png";
-import cssImg from "./css-3.png";
-import jsImg from "./js.png";
-import reactJSimg from './reactJS.png';
-import cImg from "./c.png";
-import cplusImg from "./c++.png";
-import gitHubImg from "./github-sign.png";
-import tailwindImg from "./tailwindcss.png";
-import gitImage from "./git.png";
-import viteImg from './vite.jpeg';
+import htmlImg from "./../assets/html-5.png";
+import cssImg from "./../assets/CSS.png";
+import jsImg from "./../assets/js.png";
+import reactJSimg from './../assets/reactJS.png';
+import cImg from "./../assets/vite.jpeg";
+import cplusImg from "./../assets/Cplus.png";
+import gitHubImg from "./../assets/github-sign.png";
+import tailwindImg from "./../assets/tailwindcss.png";
+import gitImage from "./../assets/git.png";
+import viteImg from "./../assets/vite.jpeg";
 import {Link} from "react-router";
 
 function HeroSection() {
